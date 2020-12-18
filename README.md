@@ -12,4 +12,4 @@ I would also like to add a video that shows the functionality of the API on the 
 
 # Credits
 
-I was able to complete this as I followed an online tutorial posted by the youTube user Web Dev Simplified. This 
+I was able to complete this as I followed an online tutorial posted by the youTube user Web Dev Simplified.
